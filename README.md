@@ -1,3 +1,9 @@
+# Homework 03
+
+- Please work in groups
+- Part 1 is due Monday since we'll be using results in class
+- Part 2 is due Wednesday
+
 # Getting started
 
 - Accept this assignment on Github Classroom, and create your team. Clone the forked repository to your computer.
